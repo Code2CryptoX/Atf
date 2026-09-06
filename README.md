@@ -19,5 +19,4 @@ python atf.py
 ## FEATURES
 
 >AUTO Complete Missions
->AUTO Claim Every Sec
 >JOIN CHANNEL FOR MORE
