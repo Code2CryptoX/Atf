@@ -18,5 +18,4 @@ python atf.py
 
 ## FEATURES
 
->AUTO Complete Missions
->JOIN CHANNEL FOR MORE
+>AUTO Complete Missions & Claim
